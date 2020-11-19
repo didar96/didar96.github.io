@@ -1,0 +1,150 @@
+body {
+    background: #fff;
+    color: #0a1010;
+    font-family: 'Raleway';
+  }
+
+  .navbar {
+    background: #000b16;
+    border-bottom: #04C2C9 3px solid;
+  }
+
+  .navbar a {
+      color: #fff;
+  }
+
+  .navbar a:hover {
+      color: #E8177F;
+  }
+
+  #home-section {
+    background-image: url('img-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 720px;
+  }
+
+  #home-section .home-inner {
+    padding-top: 250px;
+  }
+
+  #home-section .btn {
+      border-radius: 0px;
+      font-size: 20px;
+      background: transparent;
+      color: #fff;
+      border: #fff 2px solid;
+      -webkit-transition-duration: 0.2s;
+      transition-duration: 0.2s;
+  }
+
+  #home-section .btn:hover {
+    background: #04C2C9;
+    border: #04C2C9 2px solid;
+  }
+
+  #home-section .btn:focus {
+      outline: none !important;
+      box-shadow: none;
+  }
+
+  .navbar a.active {
+      color: #E8177F;
+  }
+
+  #about-head-section {
+    min-height: 720px;
+  }
+
+  #about-head-section .about1 {
+    padding-top: 80px;
+  }
+
+  #about-head-section .about2 {
+    padding-top: 100px;
+  }
+
+  #about-head-section .about2 a {
+      background: #000b16;
+      color: white;
+      border-radius: 0px;
+      padding: 10px 20px;
+  }
+  
+  #portfolio-head-section {
+      background: #F3F2F3;
+      min-height: 720px;
+  }
+  #portfolio-head-section .portfolio1 {
+    padding-top: 100px;
+  }
+
+  #portfolio-head-section .portfolio2 {
+    padding-top: 100px;
+  }
+
+  .card-header {
+      background: #000b16;
+      padding-bottom: 0px;
+  }
+
+  .card-header p {
+      color: #04C2C9;
+  }
+
+  .projectBtn a {
+      background: transparent;
+      border: #D51072 2px solid;
+      color: #000b16;
+      border-radius: 0px;
+  }
+
+  .projectBtn a:hover {
+      background: #D51072;
+      color: white;
+      border: #D51072 2px solid;
+      border-radius: 0px;
+  }
+
+  #contact-head-section {
+      background: #000b16;
+      min-height: 650px;
+  }
+
+  #contact-head-section .contact1 {
+      padding-top: 120px;
+  }
+
+  #contact-head-section .btn {
+      border-radius: 0px;
+      background: #001020;
+      color: #fff;
+      border: none;
+      padding: 15px;
+  }
+
+  #contact-head-section .btn:hover {
+      background: #04C2C9;
+  }
+
+  hr {
+      border: white 2px solid;
+      width: 100px;
+  }
+
+  .underL {
+    border: #0a1010 2px solid;
+    width: 100px;
+  }
+
+  #contact-head-section .upBtn a{
+    background: #D51072;
+    margin-top: 100px;
+    margin-right: 50px;
+    padding: 10px 15px;
+  }
+
+  #main-footer {
+      background: #001020;
+  }
