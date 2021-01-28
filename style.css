@@ -81,6 +81,7 @@ body {
 
   #portfolio-head-section .portfolio2 {
     padding-top: 100px;
+    padding-bottom: 50px;
   }
 
   .card-header {
@@ -107,7 +108,6 @@ body {
   }
 
   #contact-head-section {
-      margin-top: 100px;
       background: #000b16;
       min-height: 650px;
   }
