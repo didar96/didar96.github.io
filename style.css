@@ -107,6 +107,7 @@ body {
   }
 
   #contact-head-section {
+      margin-top: 100px;
       background: #000b16;
       min-height: 650px;
   }
